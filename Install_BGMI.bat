@@ -11,5 +11,5 @@ echo msgbox "Please wait your bgmi game is now downloading 1194 MB OBB File, Don
 start "" wscript "%temp%\BGMI_Popup.vbs"
 timeout /t 300 > nul
 del "%temp%\BGMI_Popup.vbs"
-ECHO BGMI 2.8 APK Installed and Launched Successfully!
+ECHO BGMI 3.3 APK Installed and Launched Successfully!
 PAUSE
